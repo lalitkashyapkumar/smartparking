@@ -12,3 +12,5 @@
 ## Flow Diagram
 
 ![flow dia](https://raw.githubusercontent.com/TyagiSumit/smart-parking-hacknitj/master/problem_statement/flow_dia.png?token=AHFHX5IP4YVYY4NHXRK5UDS5PDJJA)
+
+## Team Member Sumit Tyagi, Lalit Kumar, Muskan Choudhary, Rishabh, Vartika
